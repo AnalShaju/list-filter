@@ -1,0 +1,35 @@
+   body { 
+        font-family: sans-serif; 
+        max-width: 400px; 
+        margin: 30px auto; 
+        background-image:url(bgImage.jpg);
+        background-repeat: repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    h2 {
+        color: #000000;
+        text-align: center;
+    }
+    input { 
+        width: 100%; 
+        padding: 8px; 
+        margin-bottom: 10px; 
+        border-radius:5px;
+        border: 2px solid black;
+
+        
+    }
+    li { 
+        padding: 8px; 
+        margin: 4px 0; 
+        background: #f0f0f0; 
+        border-radius: 4px; 
+        list-style: none; 
+        border-radius:5px;
+        border: 2px solid rgb(41, 43, 41);
+
+    }
+    .hidden { 
+        display: none; 
+    }
